@@ -15,5 +15,5 @@ while True:
     elif opcion == 4:
         print(numero1, "%", numero2, "la division es ", numero1+numero2)
         
-    else
+    else:
         print("opcion incorrecta...")
